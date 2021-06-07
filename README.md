@@ -16,3 +16,12 @@ Two scatter plots were then constructed to visualize the correlations between ma
 Additional variables considered in this correlation were the proportionate percentages of people who visited restaurants or bars in the last 24 hours and the proportionate percentages of people who attended large events, those with ten or more people attending. The spearman correlation test showed these factors were positively associated with higher likelihood of knowing someone in the community with covid-like symptoms, while wearing a mask was negatively associated with all three other variables.  
 
 We find that there is clear, numerical evidence between the association of mask-wearing, and other socializing, with greater numbers of people sick with covid-like symptoms 
+
+### Directories
+
+The code directory has python .py file for the web scraping, data munging, and visualizations, along with a script for functions. 
+Specifically, my_func.py has is for using the request function. 
+
+The data directory has the JSON files used for each request. 
+
+The notebooks directory has the Jupyter notebook writeup that goes into more detail of the code. 
