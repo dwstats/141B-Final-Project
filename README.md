@@ -60,4 +60,4 @@ import json
 with open('cum_cases.json', 'w') as f:
     json.dump(js2, f)
 
-The notebooks directory has the Jupyter notebook writeup that goes into more detail of the code. 
+The notebooks directory has the Jupyter notebook writeup that goes into more detail of the code. If you are unable to open the .ipynb, the html is in the main directory as Project.html
