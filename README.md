@@ -53,4 +53,11 @@ datfram14: percentage of people who attended large events (10+ people) in the la
 
 The data directory has the JSON files used for each request. 
 
+They were collected using json.dump, for example: 
+
+import json
+
+with open('cum_cases.json', 'w') as f:
+    json.dump(js2, f)
+
 The notebooks directory has the Jupyter notebook writeup that goes into more detail of the code. 
