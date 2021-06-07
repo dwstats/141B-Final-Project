@@ -20,7 +20,11 @@ We find that there is clear, numerical evidence between the association of mask-
 ### Directories
 
 The code directory has python .py file for the web scraping, data munging, and visualizations, along with a script for functions. 
+
 Specifically, my_func.py has is for using the request function. 
+
+
+
 
 The corresponding pandas dataframes variables used are as follows:
 
@@ -43,6 +47,8 @@ datfram12: community covid sypmtoms (perecentage of people)
 datfram13: percentage of people who went to restaurants/bars in the last 24 hours
 
 datfram14: percentage of people who attended large events (10+ people) in the last 24 hours
+
+
 
 
 The data directory has the JSON files used for each request. 
