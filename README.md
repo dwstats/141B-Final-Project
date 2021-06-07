@@ -22,6 +22,19 @@ We find that there is clear, numerical evidence between the association of mask-
 The code directory has python .py file for the web scraping, data munging, and visualizations, along with a script for functions. 
 Specifically, my_func.py has is for using the request function. 
 
+The corresponding pandas dataframes variables used are as follows:
+datfram2: cumulative cases 
+datfram3: nationwide daily new cases 
+datfram4: nationwide daily new deaths
+datfram5: cumulative cases by state (usafacts)
+datfram6: cumulative deaths by state (usafacts)
+datfram8: percentag eof people who wore masks in the last 24 hours
+datfram11: proportion of daily new cases by state
+datfram12: community covid sypmtoms (perecentage of people)
+datfram13: percentage of people who went to restaurants/bars in the last 24 hours
+datfram14: percentage of people who attended large events (10+ people) in the last 24 hours
+
+
 The data directory has the JSON files used for each request. 
 
 The notebooks directory has the Jupyter notebook writeup that goes into more detail of the code. 
